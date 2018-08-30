@@ -1,5 +1,14 @@
 # JavaEE-Mysql-InternshipProject
 
+--Import this project SurvivalProj in eclipse workspace, add any dependencies which might be missing.
+
+Based on Mysql server, hence server instance should be up and running. Change Username/Password accordingly.
+
+Run the DB scripts for Mysql before starting the application(Scripts in dbscripts.txt) in root of this repo)
+
+
+------------------About app---------------------
+
 Equity trading application that simulates the Portfolio
 Manager and Trader functionalities and their interaction with
 the designated Broker/Exchange.

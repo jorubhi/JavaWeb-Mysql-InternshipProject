@@ -1,0 +1,50 @@
+.ifr{
+     height: 100%;
+     width: 100%;
+ }
+ 
+ table{
+ border: 1px dashed grey;
+ }
+ #left{
+ float: 'left';
+ margin-left: 10%;}
+ 
+ #right{
+ float: 'right';
+}
+ 
+ div{
+ padding:10px;}
+ 
+ #mrid{
+ 
+  position: fixed;
+  
+ 
+ table,tr,th,td{
+  border:1px solid #dddddd;
+  border-collapse:collapse;
+  height:90%;
+}
+
+
+.tbl-header{
+  width:calc(100% - 17px);
+  width:-webkit-calc(100% - 17px);
+  width:-moz-calc(100% - 17px);
+}
+ 
+table,tr,th,td{
+  border:1px solid #dddddd;
+  border-collapse:collapse;
+}
+.tbl-header{
+  width:calc(100% - 17px);
+  width:-webkit-calc(100% - 17px);
+  width:-moz-calc(100% - 17px);
+} 
+.box{
+	width:500px;
+}
+}
